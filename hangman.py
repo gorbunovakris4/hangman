@@ -9,8 +9,8 @@ class HangmanGame:
     """
     Class realizing logic of game Hangman
     """
-    __words = ["hello", "world", "python", "object", "program", "string", "float", "abstract",
-               "pattern", "decorator"]
+    __words = ["hello", "world", "python", "computer", "program", "print", "list", "triangle",
+               "coding", "iphone"]
     _word_cnt = 10
 
     @staticmethod
