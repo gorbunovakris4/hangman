@@ -1,7 +1,7 @@
 """
 module providing console user interface for hangman game
 """
-import hangman
+from hangman import HangmanGame
 
 class ConsoleUI:
     """
