@@ -2,7 +2,7 @@
 example of how to use hangman app
 """
 
-from hangman_console_interface import ConsoleUI
+from hangman_cli import ConsoleUI
 
 if __name__ == "__main__":
     app = ConsoleUI()
